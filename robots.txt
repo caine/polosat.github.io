@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /files
+sitemap: https://polosat.ru/sitemap.xml
+host: polosat.ru
